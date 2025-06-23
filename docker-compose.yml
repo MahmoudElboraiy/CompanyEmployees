@@ -1,0 +1,6 @@
+services:
+  companyemployees:
+    image: ${DOCKER_REGISTRY-}companyemployees
+    build:
+      context: .
+      dockerfile: CompanyEmployees\Dockerfile

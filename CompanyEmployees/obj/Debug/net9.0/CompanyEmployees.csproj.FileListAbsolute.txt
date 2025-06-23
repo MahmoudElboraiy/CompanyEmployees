@@ -35,3 +35,10 @@ C:\Users\mahmo\source\repos\CompanyEmployees\CompanyEmployees\bin\Debug\net9.0\S
 C:\Users\mahmo\source\repos\CompanyEmployees\CompanyEmployees\obj\Debug\net9.0\CompanyEmployees.csproj.AssemblyReference.cache
 C:\Users\mahmo\source\repos\CompanyEmployees\CompanyEmployees\obj\Debug\net9.0\CompanyEmployees.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\mahmo\source\repos\CompanyEmployees\CompanyEmployees\obj\Debug\net9.0\CompanyE.34C766B8.Up2Date
+C:\Users\mahmo\source\repos\CompanyEmployees\CompanyEmployees\bin\Debug\net9.0\nlog.config
+C:\Users\mahmo\source\repos\CompanyEmployees\CompanyEmployees\bin\Debug\net9.0\NLog.dll
+C:\Users\mahmo\source\repos\CompanyEmployees\CompanyEmployees\bin\Debug\net9.0\NLog.Extensions.Logging.dll
+C:\Users\mahmo\source\repos\CompanyEmployees\CompanyEmployees\bin\Debug\net9.0\Contracts.dll
+C:\Users\mahmo\source\repos\CompanyEmployees\CompanyEmployees\bin\Debug\net9.0\LoggerService.dll
+C:\Users\mahmo\source\repos\CompanyEmployees\CompanyEmployees\bin\Debug\net9.0\LoggerService.pdb
+C:\Users\mahmo\source\repos\CompanyEmployees\CompanyEmployees\bin\Debug\net9.0\Contracts.pdb
