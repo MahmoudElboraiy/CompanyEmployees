@@ -29,3 +29,4 @@
 2025-06-23 19:23:54.0979 INFO Here is info message from our values controller.
 2025-06-23 19:23:55.0084 DEBUG Here is debug message from our values controller.
 2025-06-23 19:23:56.5160 WARN Here is warn message from our values controller.
+2025-06-23 19:23:57.7179 ERROR Here is an error message from our values controller.
