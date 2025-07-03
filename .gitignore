@@ -1,0 +1,17 @@
+bin/
+obj/
+*.user
+*.suo
+*.log
+*.vs/
+*.sln
+*.dll
+*.exe
+*.pdb
+*.db
+.env
+*.AssemblyInfo
+*.AssemblyInfoInputs
+*.assets
+*.nuget.cache
+appsettings.Development.json
